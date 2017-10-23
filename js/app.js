@@ -1,0 +1,1 @@
+alert("Bienvenidos, este es mi archivo js")
